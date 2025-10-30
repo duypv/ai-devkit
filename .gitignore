@@ -13,7 +13,6 @@ Thumbs.db
 .idea/
 *.swp
 *.swo
-*~
 .project
 .classpath
 .settings/
@@ -84,7 +83,6 @@ logs/
 
 # Environment Variables
 .env
-.env.local
 .env.*.local
 
 # Temporary Files
@@ -111,7 +109,6 @@ temp/
 # Test Coverage
 coverage/
 *.cover
-.coverage
 
 # Documentation Build
 docs/_build/
